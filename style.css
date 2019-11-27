@@ -1,0 +1,121 @@
+.mainbox{
+    background-color: red;
+    width: 800px;
+    margin:200px auto;
+}
+
+.menu {
+    background-color: darkblue;
+    height: 100px;
+    margin: 0px auto;
+    width: 460px;
+
+}
+
+body{
+    background-color: greenyellow;
+}
+
+.V {
+    background-image:url(images/Moto/mainbilde2.jpg);
+    height:150px;
+    width:800px;
+    margin:10px auto;
+
+}
+
+.main{
+    background-color: pink;
+    width: 600px;
+    margin: 0px auto;
+}
+
+
+.menu{
+    height: 34px;
+    text-align: center;
+}
+
+.menu>ul>li{
+    display:inline;
+    padding:10px 10px 10px 10px ;
+    background-color: red;
+    position:relative;
+    top: 8px;
+    font-family: Tahoma, serif;
+    font-size: 14px;
+}
+
+.menu>ul>li>a{
+    text-decoration: none;
+    color:#fff;
+}
+
+.gallery{
+    max-width: 120px;
+}
+
+.A{
+    background-color: white;
+    width:800px;
+    margin:0px auto;
+    color: black;
+    padding: 1px;
+
+}
+
+
+img{
+    height: 150px;
+    width:210px;
+    border:4px;
+    padding:10px;
+    position: ;
+}
+
+.E{
+    margin: 10px;
+    background-color: yellow;
+    height: 200px;
+    width: 680px;
+    padding: 50px;
+}
+
+.epasts{
+    color: aqua;
+    padding: 10px;
+    background-color: purple;
+}
+
+.U{
+    background-color: blue;
+    width: 800px;
+    margin: 0px auto;
+    color: black;
+    padding: 0px;
+    font-size: 25px;
+    position: relative;
+}
+
+
+.B {
+    background-color: slateblue;
+    width: 800px;
+    margin: 0px auto;
+    color: greenyellow;
+    padding: 0px;
+    font-size: 25px;
+}
+
+.P {
+    background-color: yellow;
+    width: 800px;
+    margin: 0px auto;
+    color: black;
+    padding: 0px;
+    font-size: 25px;
+}
+
+.Y{
+    text-align: center;
+}
